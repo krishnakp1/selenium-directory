@@ -1,5 +1,5 @@
 public class demo{
-	p s v m(String args){
-	
+	public static void main(String args){
+		System.out.println("First project");
 	}
 }
